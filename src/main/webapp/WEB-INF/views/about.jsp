@@ -9,7 +9,8 @@
 <body>
 	<h1>This about page</h1>
 	<h1>Called by home controller</h1>
+	
 	<h1>url /about</h1>
-	<h4>Pranjal Saxena</h4>
+	<h4>Pranjal</h4>
 </body>
 </html>
